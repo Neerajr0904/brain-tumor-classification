@@ -97,13 +97,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Authors
-
-- **R. Neeraj** — [GitHub](https://github.com/neerajr0904) · [LinkedIn](https://linkedin.com/in/neerajr0904)
-- **Nishok V.**
-
-**Guide:** Ms. Jeenath Shafana, M.E., (Ph.D.) — Department of Computer Science and Engineering, Sathyabama Institute of Science and Technology
-
 ## Future Scope
 
 - Grad-CAM / attention-based visualization to highlight tumor regions
